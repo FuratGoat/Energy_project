@@ -1,5 +1,3 @@
-Welcome to the Electricity Price Forecasting project! 
-
 This project is designed to analyze and predict electricity retail prices in the industrial sector using data from the U.S. Energy Information Administration (EIA).
 
 Project Overview:
