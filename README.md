@@ -23,14 +23,8 @@ future_prediction.py: Handles future price predictions using trained models.
 plotter.py: Contains plotting functions for visualizing trends, model predictions, and future forecasts.
 main.py: Orchestrates the entire process by calling the necessary functions from other files.
 
-Running the Project:
-Make sure to install the required libraries (requests, pandas, numpy, matplotlib, scikit-learn, etc.). You can install them using the following command:
-bash pip install -r requirements.txt
-Run the project by executing the main.py file:
-bash python main.py
-
 You’ll see:
-Comparison of electricity prices for the top 5 states.
+Comparison of electricity prices for the 5 states with the highest yearly average change.
 Seasonal decomposition for California electricity prices.
 Predictions for future electricity prices for the next four quarters.
 
